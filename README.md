@@ -6,6 +6,14 @@ kafka-python
 opencv-python
 Flask
 ~~~
+# Test producer & consumer
+![imh](https://github.com/yerson001/kafka-python-camera-stream/blob/main/Selecci%C3%B3n_051.png)
+
+# Partitions
+![imh](https://github.com/yerson001/kafka-python-camera-stream/blob/main/Selecci%C3%B3n_052.png)
+
+# Flask run 
+![imh](https://github.com/yerson001/kafka-python-camera-stream/blob/main/Selecci%C3%B3n_054.png)
 
 # Real time Video Streaming with Kafka and Python
 <p align="center">
