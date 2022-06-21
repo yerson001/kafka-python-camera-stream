@@ -69,5 +69,3 @@ python consumer.py
 Now Browse this
 http://localhost:5000/
 
-Credit
-- [Distributed video stream with python](https://scotch.io/tutorials/build-a-distributed-streaming-system-with-apache-kafka-and-python)
