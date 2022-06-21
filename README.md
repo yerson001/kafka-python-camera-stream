@@ -1,6 +1,6 @@
 # kafka-python-camera-stream
 bigdata
-##python lib
+## python lib
 ~~~
 kafka-python
 opencv-python
