@@ -15,7 +15,6 @@ Flask
 # Flask run 
 ![imh](https://github.com/yerson001/kafka-python-camera-stream/blob/main/Selecci%C3%B3n_054.png)
 
-# Real time Video Streaming with Kafka and Python
 <p align="center">
   <img width="400" height="200" src="https://cdn-images-1.medium.com/max/600/1*iUWxneAQ_kozzLPkFsrakw.png">
 </p>
