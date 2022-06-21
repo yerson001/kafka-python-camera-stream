@@ -1,5 +1,12 @@
 # kafka-python-camera-stream
 bigdata
+##python lib
+~~~
+kafka-python
+opencv-python
+Flask
+~~~
+
 # Real time Video Streaming with Kafka and Python
 <p align="center">
   <img width="400" height="200" src="https://cdn-images-1.medium.com/max/600/1*iUWxneAQ_kozzLPkFsrakw.png">
